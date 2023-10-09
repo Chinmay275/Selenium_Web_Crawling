@@ -21,4 +21,4 @@ Before running this project, ensure you have the following prerequisites:
 - Python libraries: psycopg2, selenium, beautifulsoup4
 - ChromeDriver installed according to your chrome version
 
-(public/PostgreSQL Database.jpg)
+(/public/readme/PostgreSQL Database.PNG)
