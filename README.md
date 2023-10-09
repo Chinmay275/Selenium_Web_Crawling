@@ -20,5 +20,3 @@ Before running this project, ensure you have the following prerequisites:
 - PostgreSQL installed and configured
 - Python libraries: psycopg2, selenium, beautifulsoup4
 - ChromeDriver installed according to your chrome version
-
-!(/SQLimage.jpg)
